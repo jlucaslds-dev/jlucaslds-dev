@@ -10,7 +10,7 @@ Desenvolvedor Full Stack graduado em **Análise e Desenvolvimento de Sistemas** 
 
 * 🎓 **Formação:** Análise e Desenvolvimento de Sistemas — Unimar (2023 - 2025)
 * 💼 **Projetos em Destaque:** DevRoast (Análise de Código Full-Stack) e Chatbot IA com Streamlit
-* 🌐 **Idiomas:** Português (Nativo) | Inglês (Intermediário - B1) | Espanhol (Iniciante - A1)
+* 🌐 **Idiomas:** Português Brasileiro (Nativo) | Inglês (Intermediário - B1) | Espanhol (Iniciante - A1)
 
 ---
 
@@ -55,9 +55,20 @@ Desenvolvedor Full Stack graduado em **Análise e Desenvolvimento de Sistemas** 
 
 ### 📊 Estatísticas
 
-<br>
+<p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-stats-extended.vercel.app/api?username=jlucaslds-dev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&locale=pt-br" 
+  />
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jlucaslds-dev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&locale=pt-br" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jlucaslds-dev&layout=compact&theme=tokyonight&locale=pt-br&hide=html,css" />
+<img 
+      align="left" 
+      alt="GitHub Stats" 
+      height="200" 
+      src="https://github-stats-extended.vercel.app/api/top-langs/?username=jlucaslds-dev&layout=compact&theme=tokyonight&locale=pt-br" 
+  />
+
 </p>
